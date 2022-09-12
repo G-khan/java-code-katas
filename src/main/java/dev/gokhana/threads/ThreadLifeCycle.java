@@ -1,7 +1,5 @@
 package dev.gokhana.threads;
 
-import java.util.logging.Logger;
-
 public class ThreadLifeCycle {
 
     static Thread waitingThread;
